@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 [daiim7.0](https://github.com/izgang/daiim7.0/blob/master/di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip)
 
+<a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip">Download File</a>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
