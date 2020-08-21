@@ -16,6 +16,8 @@
 - 輸入窗 **顯示**： 至少 打1鍵
 - 輸入法 **選單**： 輸入窗中 滑鼠右鍵
 
+**Happy Typing**
+
 
 You can use the [editor on GitHub](https://github.com/izgang/daiim7.0/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
