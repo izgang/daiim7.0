@@ -3,7 +3,7 @@
 
 <a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>下載 台音7.0 安裝程式</a>
 
-// <a id="raw-url" href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip">Download File 3</a>
+<!--a id="raw-url" href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip">Download File 3</a-->
 
 
 You can use the [editor on GitHub](https://github.com/izgang/daiim7.0/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
