@@ -7,6 +7,13 @@
 <!--a id="raw-url" href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip">Download File 3</a-->
 
 
+1. 下載後
+2. 解壓縮
+3. 滑鼠右鍵 選單選 【以系統管理員身份執行】 執行安裝程式
+4. 過程 大約 ≦1分鐘
+
+
+
 You can use the [editor on GitHub](https://github.com/izgang/daiim7.0/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
