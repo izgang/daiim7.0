@@ -1,11 +1,11 @@
-## 台音7.0 台華語 通用拼音 輸入法
 
-<big> 下載  <a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>台音7.0 安裝程式</a> </big>
+<!--big> 下載  <a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>台音7.0 安裝程式</a> </big-->
 
 ## 下載  <a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>台音7.0 安裝程式</a>
 
 <!--a id="raw-url" href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip">Download File 3</a-->
 
+台音7.0 是 台華語 通用拼音 輸入法， 輸入 支援 通用拼音 標準+相容 ， 自動詞條記憶 等等。
 
 1. 下載後
 2. 解壓縮， 點進， 點選  【台音7.0 安裝(滑鼠右鍵 選【以系統管理員身份執行】).exe】
