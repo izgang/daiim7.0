@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## 台音7.0 通用拼音 台華語 輸入法
+
+
+<a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>下載 台音7.0 安裝程式</a>
+
+// <a id="raw-url" href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip">Download File 3</a>
+
 
 You can use the [editor on GitHub](https://github.com/izgang/daiim7.0/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,11 +31,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[1 daiim7.0](https://github.com/izgang/daiim7.0/blob/master/di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip)
 
-<a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>Download File 2</a>
-
-<a id="raw-url" href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip">Download File 3</a>
 
 
 
